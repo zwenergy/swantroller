@@ -1,6 +1,8 @@
 # swantroller
 A WonderSwan Color controller PCB for the swancolorHD.
 
+<img src="./res/swantrollere3.png" alt="drawing" width="700"/>
+
 ## About
 The idea of this project is to turn an (empty) WonderSwan Color shell into a controller for the swancolorHD (a WonderSwan Color consolizer).
 

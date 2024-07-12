@@ -20,6 +20,8 @@ The easiest way to get a SNES controller cable is probably to get a SNES control
 Use a multimeter to figure out the signals.
 Here's the signal pinout of the controller plug:
 
+![SNES pinput](./res/snes.png "SNES pinout")
+
 ## Disclaimer
 **Use the files and/or schematics to build your own board at your own risk**.
 This board works fine for me, but it's a simple hobby project, so there is no liability for errors in the schematics and/or board files.

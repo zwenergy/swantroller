@@ -12,7 +12,7 @@ There are two variants of the swantroller: One variant based on shift registers 
 This variant has the advantage that it is fully working, also if there is some under-voltage or under-current for a short time at the startup.
 This is a particular possibility with the swancolorHD, as the board may be crossfed by the HDMI voltage.
 The disadvantage of this variant is that the controller protocol is fixed, making it only usefully working with the swancolorHD and not usable with, e.g., a SNES console.
-* **RP240 variant:** PCB Gerbers can be found in the rp2040/pcb folder.
+* **RP2040 variant:** PCB Gerbers can be found in the rp2040/pcb folder.
 FW can be found in the release tab.
 This variant has the advantage that the controller protocol can be fully adjusted in SW, making it potentially to be used with, e.g., a SNES console.
 The disadvantage is that it is susceptible to under-voltage or under-current.
